@@ -84,4 +84,4 @@
 * [drum6](https://github.com/holmesrichards/drum6) Ridiculous bending and repurposing of First Act drum pad as Eurorack module and maybe controller
 
 ## Gratuitous recursion
-* [Directory](https://github.com/holmesrichards/Directory) Gratuitous recursion
+* [holmesrichards](https://github.com/holmesrichards/holmesrichards) Gratuitous recursion
